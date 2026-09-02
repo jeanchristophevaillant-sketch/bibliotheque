@@ -1,0 +1,6 @@
+{
+  "name": "BiblioScan - Bibliothèque Numérique & OCR",
+  "description": "Créez et gérez votre bibliothèque numérique locale à partir de photos de vos étagères avec reconnaissance OCR par IA, déduplication automatique, mode hors-ligne et export JSON.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
